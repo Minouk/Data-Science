@@ -11,7 +11,8 @@ Basic data processing with Pandas: (Covered in week 2)
 * Quering a DataFrame
 * Indexing DataFrame
 * Missing values\
-\Advanced Python Pandas: (Covered in week 3)
+
+Advanced Python Pandas: (Covered in week 3)
 * Merging DataFrames
 * Pandas Idioms
 * Group by
