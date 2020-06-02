@@ -18,5 +18,4 @@ Advanced Python Pandas: (Covered in week 3)
 * Group by
 * Scales
 * Pivot Tables
-* Date Functionality\
-
+* Date Functionality
