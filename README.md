@@ -1,5 +1,5 @@
 # Introduction to Data Science in Python
-This repo contains Week 2 and Week 3 Jupyter Notbook used in the course "Introduction to Data Science in Python" part of 
+This repo contains Week 2, Week 3 and Week 4 Jupyter Notbook used in the course "Introduction to Data Science in Python" part of 
 "Applied Data Science with Python" specialization from University of Michigan offered by Coursera.\
 All of the lecture notes are included in the notbook along with the code examples.\
 \
@@ -19,3 +19,7 @@ Advanced Python Pandas: (Covered in week 3)
 * Scales
 * Pivot Tables
 * Date Functionality
+
+Statistical Analysis in Python and Project (Covered in week 4)
+* Distributions in Pandas
+* Hypothesis Testing
